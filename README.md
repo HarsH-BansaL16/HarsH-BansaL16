@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 <p align="center" >
   <code><img width="9%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
